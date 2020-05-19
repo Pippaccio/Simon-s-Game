@@ -17,6 +17,16 @@ body {
 
 }
 
+.btn2 {
+  margin: 25px;
+  display: inline-block;
+  height: 50px;
+  width: 100px;
+  background-color: #f8f3eb;
+
+}
+
+
 .btn {
   margin: 25px;
   display: inline-block;
@@ -46,6 +56,7 @@ body {
 .yellow {
   background-color: yellow;
 }
+
 
 .pressed {
   box-shadow: 0 0 20px white;
